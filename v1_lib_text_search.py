@@ -91,7 +91,7 @@ def find_offsets_json(text: str, phrase: str, fuzzy: bool = False, threshold: fl
 # ----------------------------
 if __name__ == "__main__":
     sample = "The quick brown fox jumps over the lazy dog. The quack brown fix is swift."
-    phrase = "quick brown fox"
+    phrase = "quick brown foxes"
 
     print("=== Exact matches ===")
     print(find_offsets_json(sample, phrase, fuzzy=False))
