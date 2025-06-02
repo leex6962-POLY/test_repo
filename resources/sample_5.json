@@ -1,0 +1,1130 @@
+{
+    "text": "2166 august 45th,sunday\n\n\"Xyra,breakfast!\"It was mom,calling for me.\"Coming!\"I replied.Today's breakfast was nebula pancake,made by prior,our robot.My older brother,Xylo,was already eating it.\n After eating breakfast,I rode my school bus and sat beside my best friend,Zephyr Aether.I thought it would be a normal day like another.That's when it started. The bus suddnly shook,and powered down. When we got out of the bus,we saw that our whole city.Has been powered down.\n\nThen,something struck my mind.\"PRIOR!\"I shouted.I ran to my house as fast I could, only thinking about Prior.I bursted in.Prior was nowhere to be seen.\"Mom,\"I said.\"Where's Prior?\"?\"He is in the attic,cleaning.\"Mom said.I ran up.I saw Prior,and,surprisingly,He was still working.He was building something with xylo.It look like a...raido?Huh?\n\n\"What are you guys building?And how's Prior still working?And wha-\"Oh,sis,calm down!Let us explain.I put emergency atomic batteries in Prior,and we are building a machine to know who[or what] has malfungtion the satelleite.\"He said\" How did you know that?\"I asked.\"Prior told me\"He said.\"oh\"\n\n[(WE ARE READY]Prior said,makeing a smily face.\"Let's see what caused the power-down!\"Xylo said.a screen appreared.We saw a comet hitting the satelleite.We showedit at the goverment.they launched a rocket that they used back in 2025.\n\nWell, that is the end of the story.From this experience, I learned that technology is important after all,or we will suffer,like this story.\nPrice:12000 won",
+    "correctText": "2166 August 45th, Sunday\n\n\"Xyra, breakfast!\" It was Mom calling for me. \"Coming!\" I replied. Today's breakfast was nebula pancake, made by Prior, our robot. My older brother, Xylo, was already eating it. After eating breakfast, I rode my school bus and sat beside my best friend, Zephyr Aether. I thought it would be a normal day like any other. That's when it started. The bus suddenly shook and powered down. When we got out of the bus, we saw that our whole city had been powered down.\n\nThen, something struck my mind.\"Prior!\" I shouted. I ran to my house as fast as I could, only thinking about Prior. I burst in. Prior was nowhere to be seen. \"Mom,\" I said. \"Where's Prior?\" \"He is in the attic, cleaning,\" Mom said. I ran up. I saw Prior, and, surprisingly, he was still working. He was building something with xylo. It looked like a...radio? Huh?\n\nWhat are you guys building? And how's Prior still working? And wha-\"\n\"Oh, sis, calm down! Let us explain.I put emergency atomic batteries in Prior, and we are building a machine to know who (or what) has malfunctioned the satellite,\" he said. \"How did you know that?\" I asked. \"Prior told me,\" he said. \"Oh.\n\n\"We are ready,\" Prior said, making a smiley face. \"Let's see what caused the power-down!\" Xylo said. A screen appeared. We saw a comet hitting the satellite. We showed it to the government. They launched a rocket that they used back in 2025.\n\nWell, that is the end of the story.From this experience, I learned that technology is important after all, or we will suffer like this story.\nPrice: 12000 won.",
+    "matches": [
+        {
+            "length": 38,
+            "offset": 5,
+            "replacements": [
+                {
+                    "value": "August 45th, Sunday \"Xyra, breakfast!\" It",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 49,
+            "replacements": [
+                {
+                    "value": "Mom ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Noun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 49,
+            "replacements": [
+                {
+                    "value": "calling",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 29,
+            "offset": 65,
+            "replacements": [
+                {
+                    "value": "me. \"Coming!\" I replied. Today's",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 12,
+            "offset": 116,
+            "replacements": [
+                {
+                    "value": "pancake, made",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 18,
+            "offset": 132,
+            "replacements": [
+                {
+                    "value": "Prior, our robot. My",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 16,
+            "offset": 157,
+            "replacements": [
+                {
+                    "value": "brother, Xylo, was",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 207,
+            "replacements": [
+                {
+                    "value": "breakfast, I",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 22,
+            "offset": 261,
+            "replacements": [
+                {
+                    "value": "friend, Zephyr Aether. I",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 14,
+            "offset": 322,
+            "replacements": [
+                {
+                    "value": "any other. That's",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 362,
+            "replacements": [
+                {
+                    "value": "suddenly",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 9,
+            "offset": 370,
+            "replacements": [
+                {
+                    "value": "shook and",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 417,
+            "replacements": [
+                {
+                    "value": "bus, we",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 443,
+            "replacements": [
+                {
+                    "value": "city had",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 14,
+            "offset": 472,
+            "replacements": [
+                {
+                    "value": "Then, something",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 24,
+            "offset": 497,
+            "replacements": [
+                {
+                    "value": "mind.\"Prior!\" I shouted. I",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 546,
+            "replacements": [
+                {
+                    "value": "as ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 575,
+            "replacements": [
+                {
+                    "value": "Prior. I",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 583,
+            "replacements": [
+                {
+                    "value": "burst",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 591,
+            "replacements": [
+                {
+                    "value": "in. Prior",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 26,
+            "offset": 618,
+            "replacements": [
+                {
+                    "value": "seen. \"Mom,\" I said. \"Where's",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 645,
+            "replacements": [
+                {
+                    "value": "Prior?\"",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 657,
+            "replacements": [
+                {
+                    "value": "\"He ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 667,
+            "replacements": [
+                {
+                    "value": "attic, ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 19,
+            "offset": 667,
+            "replacements": [
+                {
+                    "value": "cleaning,\" Mom",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Word Order"
+                        },
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Adjective"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 687,
+            "replacements": [
+                {
+                    "value": "said. I",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 698,
+            "replacements": [
+                {
+                    "value": "up. I",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 25,
+            "offset": 707,
+            "replacements": [
+                {
+                    "value": "Prior, and, surprisingly, he",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 10,
+            "offset": 743,
+            "replacements": [
+                {
+                    "value": "working. He",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 782,
+            "replacements": [
+                {
+                    "value": "xylo. It",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 790,
+            "replacements": [
+                {
+                    "value": "looked",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Verb Tense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 800,
+            "replacements": [
+                {
+                    "value": "a...radio? ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 14,
+            "offset": 800,
+            "replacements": [
+                {
+                    "value": "Huh?",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 816,
+            "replacements": [
+                {
+                    "value": "What",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 12,
+            "offset": 835,
+            "replacements": [
+                {
+                    "value": "building? And",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 866,
+            "replacements": [
+                {
+                    "value": "working? And",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 16,
+            "offset": 878,
+            "replacements": [
+                {
+                    "value": "wha-\" \"Oh, sis, calm",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 895,
+            "replacements": [
+                {
+                    "value": "down! Let",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 9,
+            "offset": 951,
+            "replacements": [
+                {
+                    "value": "Prior, and",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 995,
+            "replacements": [
+                {
+                    "value": "who ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 995,
+            "replacements": [
+                {
+                    "value": "(or",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1002,
+            "replacements": [
+                {
+                    "value": "what)",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 1012,
+            "replacements": [
+                {
+                    "value": "malfunctioned",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 14,
+            "offset": 1028,
+            "replacements": [
+                {
+                    "value": "satellite,\"",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1043,
+            "replacements": [
+                {
+                    "value": "he ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1043,
+            "replacements": [
+                {
+                    "value": "said.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 1049,
+            "replacements": [
+                {
+                    "value": "\"How",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 20,
+            "offset": 1066,
+            "replacements": [
+                {
+                    "value": "that?\" I asked. \"Prior",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 15,
+            "offset": 1092,
+            "replacements": [
+                {
+                    "value": "me,\" he said. \"Oh.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        },
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        },
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 1109,
+            "replacements": [
+                {
+                    "value": "\"We",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 28,
+            "offset": 1114,
+            "replacements": [
+                {
+                    "value": "are ready,\" Prior said, making",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1145,
+            "replacements": [
+                {
+                    "value": "smiley",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 1151,
+            "replacements": [
+                {
+                    "value": "face. \"Let's",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 23,
+            "offset": 1183,
+            "replacements": [
+                {
+                    "value": "power-down!\" Xylo said. A",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 12,
+            "offset": 1214,
+            "replacements": [
+                {
+                    "value": "appeared.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        },
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1227,
+            "replacements": [
+                {
+                    "value": "We ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 13,
+            "offset": 1251,
+            "replacements": [
+                {
+                    "value": "satellite.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        },
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1265,
+            "replacements": [
+                {
+                    "value": "We ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 1265,
+            "replacements": [
+                {
+                    "value": "showed it",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 2,
+            "offset": 1274,
+            "replacements": [
+                {
+                    "value": "to",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 14,
+            "offset": 1281,
+            "replacements": [
+                {
+                    "value": "government.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1296,
+            "replacements": [
+                {
+                    "value": "They ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 1446,
+            "replacements": [
+                {
+                    "value": "all, or",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 1461,
+            "replacements": [
+                {
+                    "value": "suffer like",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 1485,
+            "replacements": [
+                {
+                    "value": "Price: 12000",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 1497,
+            "replacements": [
+                {
+                    "value": "won.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

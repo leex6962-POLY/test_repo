@@ -1,0 +1,1050 @@
+{
+    "text": "In the 3rd grade, I went to the trembling piano contest in cold September. With my best friend, I went to contest together. After trembling contest, I went to my best friend's big house and played and studied hard as a test. Me and my best friend has a hard math question, so her mother helped me.\n\nHer mother was busy at doing some hard work, so I helped my friend's hard math question. It was actually easy to help it, so I helped her a lot of time. I was supposed to do my homework, but I was helping my friend's homework. I felt weird as a strange monster.\n\nAfter hard study, I played and ate the delicious chicken. I did funny game for resting. After the resting, I studied again. This time, I don't want to help her, but I must help her. Because if she don't end her hard homework, I can't play with her. I think I am a helping robot, because I was all way helping her homework.\n\nAfter finishing the homework, we play as an Internet cafe. We thought homework was done, but we have homework as a mountain! We was so sad, but we must do it. I try more homework, and then I was done really. But my friend was not done, so I helped her as a light! So we succeeded and play game and go to home.\n\nWhen I helped my people, I was weird, but in last I felt good. I felt proud too. In this helping, I learned that helping people is good. I want to help more people!",
+    "correctText": "In 3rd grade, I went to the Trembling Piano Contest in cold September with my best friend. After the trembling contest, I went to my best friend's big house and studied hard for a test. My best friend and I had a difficult math question, so her mother helped us.\n\nHer mother was busy doing some hard work, so I helped my friend with her difficult math question. It was actually easy to help her, so I helped her many times. I was supposed to do my homework, but instead I helped my friend with their homework. I felt like a strange monster.\n\nAfter hard studying, I played and ate delicious chicken. I played a funny game to rest. After resting, I studied again. This time, I didn't want to help her, but I had to help her. If she didn't finish her hard homework, I couldn't play with her. I think I am a helping robot because I was always helping her with her homework.\n\nAfter finishing the homework, we play at an Internet cafe. We thought homework was done, but we have as much homework as a mountain! We were so sad, but we must do it. I tried more homework, and then I was really done. But my friend was not done, so I helped her as a guide! So we succeeded, played a game, and went home.\n\nWhen I helped my people, I felt weird, but in the end, I felt good. I also felt proud. Through this experience of helping, I learned that helping people is a good thing. I want to help even more people!",
+    "matches": [
+        {
+            "length": 4,
+            "offset": 2,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 23,
+            "offset": 32,
+            "replacements": [
+                {
+                    "value": "Trembling Piano Contest",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 10,
+            "offset": 64,
+            "replacements": [
+                {
+                    "value": "September",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 75,
+            "replacements": [
+                {
+                    "value": "with",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 88,
+            "replacements": [
+                {
+                    "value": "friend.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 28,
+            "offset": 95,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 130,
+            "replacements": [
+                {
+                    "value": "the ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 185,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 2,
+            "offset": 214,
+            "replacements": [
+                {
+                    "value": "for",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 9,
+            "offset": 225,
+            "replacements": [
+                {
+                    "value": "My",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 247,
+            "replacements": [
+                {
+                    "value": "and I had",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 253,
+            "replacements": [
+                {
+                    "value": "difficult",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 294,
+            "replacements": [
+                {
+                    "value": "us.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 318,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 359,
+            "replacements": [
+                {
+                    "value": "friend",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 368,
+            "replacements": [
+                {
+                    "value": "with her difficult",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 417,
+            "replacements": [
+                {
+                    "value": "her,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 437,
+            "replacements": [
+                {
+                    "value": "many",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 446,
+            "replacements": [
+                {
+                    "value": "times.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Noun Number"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 490,
+            "replacements": [
+                {
+                    "value": "instead ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Adverb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 492,
+            "replacements": [
+                {
+                    "value": "helped",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Verb Tense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 507,
+            "replacements": [
+                {
+                    "value": "friend",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 516,
+            "replacements": [
+                {
+                    "value": "with their ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 533,
+            "replacements": [
+                {
+                    "value": "like",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 573,
+            "replacements": [
+                {
+                    "value": "studying,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 596,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 622,
+            "replacements": [
+                {
+                    "value": "played",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 626,
+            "replacements": [
+                {
+                    "value": "a ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 637,
+            "replacements": [
+                {
+                    "value": "to",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 641,
+            "replacements": [
+                {
+                    "value": "rest.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 655,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 699,
+            "replacements": [
+                {
+                    "value": "didn't",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Verb Tense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 729,
+            "replacements": [
+                {
+                    "value": "had to",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 10,
+            "offset": 744,
+            "replacements": [
+                {
+                    "value": "If",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 759,
+            "replacements": [
+                {
+                    "value": "didn't",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Verb Tense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 765,
+            "replacements": [
+                {
+                    "value": "finish",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Noun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 790,
+            "replacements": [
+                {
+                    "value": "couldn't",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Verb Tense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 834,
+            "replacements": [
+                {
+                    "value": "robot",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 855,
+            "replacements": [
+                {
+                    "value": "always",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 871,
+            "replacements": [
+                {
+                    "value": "her with ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 2,
+            "offset": 924,
+            "replacements": [
+                {
+                    "value": "at",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 987,
+            "replacements": [
+                {
+                    "value": "as much ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 1014,
+            "replacements": [
+                {
+                    "value": "were",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Subject Verb Agreement"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 1047,
+            "replacements": [
+                {
+                    "value": "tried",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1081,
+            "replacements": [
+                {
+                    "value": "really ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Adverb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 1081,
+            "replacements": [
+                {
+                    "value": "done.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 1085,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 1143,
+            "replacements": [
+                {
+                    "value": "guide!",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 9,
+            "offset": 1156,
+            "replacements": [
+                {
+                    "value": "succeeded,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 1165,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Conjunction"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 1170,
+            "replacements": [
+                {
+                    "value": "played",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1175,
+            "replacements": [
+                {
+                    "value": "a ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 1175,
+            "replacements": [
+                {
+                    "value": "game,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1184,
+            "replacements": [
+                {
+                    "value": "went",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 1224,
+            "replacements": [
+                {
+                    "value": "felt",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 1242,
+            "replacements": [
+                {
+                    "value": "the end,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1262,
+            "replacements": [
+                {
+                    "value": "also ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Adverb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1267,
+            "replacements": [
+                {
+                    "value": "proud.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1272,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 2,
+            "offset": 1278,
+            "replacements": [
+                {
+                    "value": "Through",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1286,
+            "replacements": [
+                {
+                    "value": "experience of ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1328,
+            "replacements": [
+                {
+                    "value": "a ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1328,
+            "replacements": [
+                {
+                    "value": "good",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1334,
+            "replacements": [
+                {
+                    "value": "thing. ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1349,
+            "replacements": [
+                {
+                    "value": "even ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Adverb"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

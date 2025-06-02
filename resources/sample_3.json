@@ -1,0 +1,982 @@
+{
+    "text": "\"Jack!\" yelled Jack's sister Ann.\n\"What?!\"shouted Jack back.\nAs Jack went inside the room, he was shocked to see his mom lying on the bed.\nLet's takeher tothe docter\"Jack said to Ann.\n\"Okay\"replied Ann.\nBecause Jack could jump to the sky with one great big thud, Jumping Jack took his mother to the hospital.\nWhen he jumpedas high as he could, he could even soar up to space.While Jack took his mom to the hospital, Jack and Ann's heart pounded.\n'I hope she is okay....' worried Jack\n\nWhen they arrived, they met the docter immediately to asked him if their mother is all right.But, as the docter's face start to darken, he told them a astonishing news.\n\"Unfortunatly..\" he started \"To save your mom, you would need a very rare powder.\"\nJack said that he would anything to save her and he would go.So, the next day morning ,he left home and started the adventure.\n\nOver the mountain, cross the ocean, Jack had only have to climb the cliff to find the unique powder.There he saw a evil witch climbing up the cliff below him.To get the powder faster than her, Jack speeded up like a cheeetah.When he tried to clasp the bottle of powder, the witch arrive at the apex of the cliff.\n\nThe strong eager to protect the bottle let Jack to save the powder and go down the cliff.Eventually, the witch caught him really quickly to get the bottle on her hands.But Jack was even more speedier.He ran and ran to keep the powder.Suddenlly, Jack tripped over a rock and fell down.The witch was right behind him!\n\"The powder is mine!\"exclaimed the evil witch\n\"Not today!\" Jack fought back.\nRight before the witch fetched powder from Jack's hand, Jumping Jack soared up to the sky.Even though he protected the powder from the witch,the cap of the bottle opened and the powder brusted out.\n\nThe powder spreaded on the sky and it is still here now.We can see it everyday up inthe sky.Now, it is called the clouds.",
+    "correctText": "\"Jack!\" yelled Jack's sister, Ann.\n\"What?!\" shouted Jack back.\n\nAs Jack went inside the room, he was shocked to see his mom lying on the bed.\n\"Let's take her to the doctor,\" Jack said to Ann.\n\"Okay,\" replied Ann.\n\nBecause Jack could jump to the sky with one great big thud, Jumping Jack took his mother to the hospital.\nWhen he jumped as high as he could, he could even soar up to space. While Jack took his mom to the hospital, Jack's and Ann's hearts pounded.\n'I hope she is okay,' worried Jack.\n\nWhen they arrived, they met the doctor immediately to ask him if their mother is all right. But as the doctor's face started to darken, he told them astonishing news. \"Unfortunately,\" he started, \"to save your mom, you would need a very rare powder.\" Jack said that he would do anything to save her and he would go. So the next day morning, he left home and started the adventure.\n\nOver the mountain and across the ocean, Jack only had to climb the cliff to find the unique powder.There he saw an evil witch climbing up the cliff below him. To get the powder faster than her, Jack sped up like a cheetah. When he tried to grasp the bottle of powder, the witch arrived at the apex of the cliff.\n\nThe strong urge to protect the bottle allowed Jack to save the powder and go down the cliff. Eventually, the witch caught him quickly to get the bottle in her hands. But Jack was even more speedy. He ran and ran to keep the powder. Suddenly, Jack tripped over a rock and fell down.\"The witch was right behind him!\"\n\"The powder is mine!\" exclaimed the evil witch.\n\"Not today!\" Jack fought back.\nRight before the witch could fetch the powder from Jack's hand, Jumping Jack soared up to the sky. Even though he had protected the powder from the witch, the cap of the bottle opened and the powder burst out.\n\nThe powder spread on the sky and is still here now. We can see it every day up in the sky. Now, it is called clouds.",
+    "matches": [
+        {
+            "length": 6,
+            "offset": 22,
+            "replacements": [
+                {
+                    "value": "sister,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 15,
+            "offset": 34,
+            "replacements": [
+                {
+                    "value": "\"What?!\" shouted",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 139,
+            "replacements": [
+                {
+                    "value": "\"Let's",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 13,
+            "offset": 145,
+            "replacements": [
+                {
+                    "value": "take her to the",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 159,
+            "replacements": [
+                {
+                    "value": "doctor,\" Jack",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 13,
+            "offset": 184,
+            "replacements": [
+                {
+                    "value": "\"Okay,\" replied",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        },
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 317,
+            "replacements": [
+                {
+                    "value": "jumped as",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 369,
+            "replacements": [
+                {
+                    "value": "space. While",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 416,
+            "replacements": [
+                {
+                    "value": "Jack's",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Noun Possessive"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 431,
+            "replacements": [
+                {
+                    "value": "hearts",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Noun Number"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 9,
+            "offset": 461,
+            "replacements": [
+                {
+                    "value": "okay,'",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 479,
+            "replacements": [
+                {
+                    "value": "Jack.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 517,
+            "replacements": [
+                {
+                    "value": "doctor",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 539,
+            "replacements": [
+                {
+                    "value": "ask",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 10,
+            "offset": 572,
+            "replacements": [
+                {
+                    "value": "right. But",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 590,
+            "replacements": [
+                {
+                    "value": "doctor's",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 604,
+            "replacements": [
+                {
+                    "value": "started",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Verb Tense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 2,
+            "offset": 633,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 16,
+            "offset": 654,
+            "replacements": [
+                {
+                    "value": "\"Unfortunately,\"",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        },
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 674,
+            "replacements": [
+                {
+                    "value": "started,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 682,
+            "replacements": [
+                {
+                    "value": "\"to",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 761,
+            "replacements": [
+                {
+                    "value": "do ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 795,
+            "replacements": [
+                {
+                    "value": "go. So",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 815,
+            "replacements": [
+                {
+                    "value": "morning, he",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 9,
+            "offset": 874,
+            "replacements": [
+                {
+                    "value": "mountain",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 884,
+            "replacements": [
+                {
+                    "value": "and ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Conjunction"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 884,
+            "replacements": [
+                {
+                    "value": "across",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 905,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 915,
+            "replacements": [
+                {
+                    "value": "had",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Verb Tense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 1,
+            "offset": 978,
+            "replacements": [
+                {
+                    "value": "an",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 1019,
+            "replacements": [
+                {
+                    "value": "him. To",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 1063,
+            "replacements": [
+                {
+                    "value": "sped",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 13,
+            "offset": 1081,
+            "replacements": [
+                {
+                    "value": "cheetah.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        },
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Adverb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1095,
+            "replacements": [
+                {
+                    "value": "When ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Adverb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1107,
+            "replacements": [
+                {
+                    "value": "grasp",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Noun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 1145,
+            "replacements": [
+                {
+                    "value": "arrived",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Verb Tense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1190,
+            "replacements": [
+                {
+                    "value": "urge",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Other",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 1218,
+            "replacements": [
+                {
+                    "value": "allowed",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 17,
+            "offset": 1262,
+            "replacements": [
+                {
+                    "value": "cliff. Eventually,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 1300,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Adverb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 2,
+            "offset": 1334,
+            "replacements": [
+                {
+                    "value": "in",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Preposition"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 9,
+            "offset": 1341,
+            "replacements": [
+                {
+                    "value": "hands. But",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 11,
+            "offset": 1370,
+            "replacements": [
+                {
+                    "value": "speedy. He",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Adjective Form"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 17,
+            "offset": 1406,
+            "replacements": [
+                {
+                    "value": "powder. Suddenly,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Mechanics",
+                            "partOfSpeech": "Spelling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 1458,
+            "replacements": [
+                {
+                    "value": "down.\"The",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 1490,
+            "replacements": [
+                {
+                    "value": "him!\"",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 15,
+            "offset": 1510,
+            "replacements": [
+                {
+                    "value": "mine!\" exclaimed",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 5,
+            "offset": 1535,
+            "replacements": [
+                {
+                    "value": "witch.",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Punctuation",
+                            "partOfSpeech": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 1595,
+            "replacements": [
+                {
+                    "value": "could fetch",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Verb Tense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1603,
+            "replacements": [
+                {
+                    "value": "the ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 1658,
+            "replacements": [
+                {
+                    "value": "sky. Even",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 0,
+            "offset": 1677,
+            "replacements": [
+                {
+                    "value": "had ",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 9,
+            "offset": 1707,
+            "replacements": [
+                {
+                    "value": "witch, the",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 7,
+            "offset": 1757,
+            "replacements": [
+                {
+                    "value": "burst",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Noun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 1782,
+            "replacements": [
+                {
+                    "value": "spread",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 3,
+            "offset": 1805,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Grammar",
+                            "partOfSpeech": "Pronoun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 6,
+            "offset": 1823,
+            "replacements": [
+                {
+                    "value": "now. We",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 8,
+            "offset": 1841,
+            "replacements": [
+                {
+                    "value": "every day",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 14,
+            "offset": 1853,
+            "replacements": [
+                {
+                    "value": "in the sky. Now,",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Orthography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "length": 4,
+            "offset": 1880,
+            "replacements": [
+                {
+                    "value": "",
+                    "status": "none",
+                    "types": [
+                        {
+                            "category": "Usage",
+                            "partOfSpeech": "Determiner"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
